@@ -13,6 +13,11 @@
 
 
 
+2023-8-05 更新
+mimikatz的shellcode文件会被360杀毒所杀，进行简单的处理，dat文件进行简单异或处理
+![image](https://github.com/snnxyss/In-Swor/assets/96976810/da8b793d-2b0a-4841-9b0e-06b823f035e9)
+
+
 
 
 项目参考：
