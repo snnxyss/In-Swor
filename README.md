@@ -20,6 +20,18 @@ mimikatz的shellcode文件会被360杀毒所杀，进行简单的处理，dat文
 
 
 
+
+2023-8-07 更新
+bypassUAC功能 使用方法： 将payload.ini里的配置改为./config/BypassUAC.dat
+运行BypassUAC.exe <command> 
+![image](https://github.com/snnxyss/In-Swor/assets/96976810/a48bf7bb-e121-4f52-bc3a-ff333c5fba19)
+
+![image](https://github.com/snnxyss/In-Swor/assets/96976810/b2e611d2-b6a1-42dc-b6d4-758500fbb3b4)
+
+
+
+
+
 项目参考：
 https://github.com/aahmad097/AlternativeShellcodeExec/tree/master
 https://github.com/fatedier/frp
