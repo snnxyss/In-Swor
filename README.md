@@ -13,6 +13,11 @@
 
 
 
+2023-8-18 微步测试 状态良好
+![image](https://github.com/snnxyss/In-Swor/assets/96976810/d8955acf-92cc-4f3a-aae4-1f24db377ffb)
+沙箱记录：https://s.threatbook.com/report/file/ea24d4dbc1312ad0413736d4632c5cf4d3df189612aa1c52fb511982be463d21
+
+
 2023-8-05 更新
 mimikatz的shellcode文件会被360杀毒所杀，进行简单的处理，dat文件进行简单异或处理
 ![image](https://github.com/snnxyss/In-Swor/assets/96976810/da8b793d-2b0a-4841-9b0e-06b823f035e9)
