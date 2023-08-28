@@ -1,3 +1,9 @@
+2023-08-28 沙箱查杀状态良好
+![image](https://github.com/snnxyss/In-Swor/assets/96976810/f1df9468-a9cf-43b0-8fb0-865cd30ad2df)
+![image](https://github.com/snnxyss/In-Swor/assets/96976810/933093ef-4995-4eec-a981-c183962a4450)
+
+
+
 # In-Swor
 一个简单内网渗透工具免杀 目前mimikatz,frp,elevationstation.
 用了比较简单的加载方式
