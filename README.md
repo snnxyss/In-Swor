@@ -3,6 +3,8 @@
 ![image](https://github.com/snnxyss/In-Swor/assets/96976810/933093ef-4995-4eec-a981-c183962a4450)
 
 
+2023-09-05 360杀毒查杀状态良好
+![image](https://github.com/snnxyss/In-Swor/assets/96976810/5e8520a1-174c-49be-a14e-44584ea7223a)
 
 # In-Swor
 一个简单内网渗透工具免杀 目前mimikatz,frp,elevationstation.
