@@ -1,9 +1,9 @@
 
 
 
-2023-09-05 360杀毒查杀状态良好
-![image](https://github.com/snnxyss/In-Swor/assets/96976810/5e8520a1-174c-49be-a14e-44584ea7223a)
+2023-09-05 360杀毒查杀结果-------已经寄了
 
+![image](https://github.com/snnxyss/In-Swor/assets/96976810/e639bf34-07d9-4592-bc07-3919a0501077)
 
 
 
